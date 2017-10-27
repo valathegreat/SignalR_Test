@@ -1,0 +1,13 @@
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\OneWayMessageReceiver.exe.config
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\OneWayMessageReceiver.exe
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\OneWayMessageReceiver.pdb
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\Common.dll
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\RabbitMQ.Client.dll
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\Common.pdb
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\bin\Debug\RabbitMQ.Client.xml
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\obj\Debug\OneWayMessageReceiver.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\obj\Debug\OneWayMessageReceiver.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\obj\Debug\OneWayMessageReceiver.exe
+G:\Other Imp Projects\Git\SignalR_Test\OneWayMessageReceiver\obj\Debug\OneWayMessageReceiver.pdb

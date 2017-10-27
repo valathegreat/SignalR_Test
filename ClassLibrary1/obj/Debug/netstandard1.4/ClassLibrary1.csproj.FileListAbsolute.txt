@@ -1,0 +1,8 @@
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+G:\Other Imp Projects\Git\SignalR_Test\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb

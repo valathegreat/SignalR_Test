@@ -1,0 +1,10 @@
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.deps.json
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.dll
+G:\Other Imp Projects\Git\SignalR_Test\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.pdb

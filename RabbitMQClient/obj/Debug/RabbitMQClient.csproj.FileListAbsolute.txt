@@ -1,0 +1,13 @@
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\RabbitMQClient.exe.config
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\RabbitMQClient.exe
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\RabbitMQClient.pdb
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\RabbitMQ.Client.dll
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\RabbitMQ.Client.xml
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\obj\Debug\RabbitMQClient.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\obj\Debug\RabbitMQClient.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\obj\Debug\RabbitMQClient.exe
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\obj\Debug\RabbitMQClient.pdb
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\Common.dll
+G:\Other Imp Projects\Git\SignalR_Test\RabbitMQClient\bin\Debug\Common.pdb

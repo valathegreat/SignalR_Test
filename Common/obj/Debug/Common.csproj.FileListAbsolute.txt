@@ -1,0 +1,10 @@
+G:\Other Imp Projects\Git\SignalR_Test\Common\bin\Debug\Common.dll
+G:\Other Imp Projects\Git\SignalR_Test\Common\bin\Debug\Common.pdb
+G:\Other Imp Projects\Git\SignalR_Test\Common\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+G:\Other Imp Projects\Git\SignalR_Test\Common\bin\Debug\RabbitMQ.Client.dll
+G:\Other Imp Projects\Git\SignalR_Test\Common\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+G:\Other Imp Projects\Git\SignalR_Test\Common\bin\Debug\RabbitMQ.Client.xml
+G:\Other Imp Projects\Git\SignalR_Test\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\SignalR_Test\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\SignalR_Test\Common\obj\Debug\Common.dll
+G:\Other Imp Projects\Git\SignalR_Test\Common\obj\Debug\Common.pdb

@@ -1,0 +1,10 @@
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\bin\Debug\netcoreapp1.1\Receiver.deps.json
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\bin\Debug\netcoreapp1.1\Receiver.runtimeconfig.json
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\bin\Debug\netcoreapp1.1\Receiver.runtimeconfig.dev.json
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\bin\Debug\netcoreapp1.1\Receiver.dll
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\obj\Debug\netcoreapp1.1\Receiver.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\obj\Debug\netcoreapp1.1\Receiver.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\obj\Debug\netcoreapp1.1\Receiver.AssemblyInfo.cs
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\bin\Debug\netcoreapp1.1\Receiver.pdb
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\obj\Debug\netcoreapp1.1\Receiver.dll
+G:\Other Imp Projects\Git\SignalR_Test\Receiver\obj\Debug\netcoreapp1.1\Receiver.pdb
